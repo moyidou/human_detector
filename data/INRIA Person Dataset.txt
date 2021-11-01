@@ -1,0 +1,6 @@
+INRIA Person Dataset
+Detection
+
+A large set of marked up images of standing or walking people
+
+http://pascal.inrialpes.fr/data/human/
